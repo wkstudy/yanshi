@@ -1,5 +1,4 @@
 #!/bin/sh
-source ~/.bashrc
 tar -czvf deploy.tar.gz dist/*
 
 scp -r  deploy.tar.gz root@139.196.89.228:~/usr/share/nginx
