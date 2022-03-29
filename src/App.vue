@@ -3,7 +3,7 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 </script>
 
-<template>hello this is yanshi</template>
+<template>hello this is yanshi v1</template>
 
 <style>
 #app {
