@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 
-<template>hello this is yanshi v1</template>
+<template>hello this is yanshi</template>
 
 <style>
 #app {
